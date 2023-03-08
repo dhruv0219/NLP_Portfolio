@@ -20,8 +20,8 @@ This file looks into the use of WordNet and some of the other tools associated w
 ## Homework 4
 
 This program looks into the use of N-Grams as well as using other tools and metrics to calculate accuracies. The program takes in different languages and 
-runs them as different N-Gram models as both bigrams and unigrams. From there the program runs a laplace formula to figure out what language the test sentence is going to be based off of the bank of bigrams and unigrams. You can see the [file here] (Homework4).
+runs them as different N-Gram models as both bigrams and unigrams. From there the program runs a laplace formula to figure out what language the test sentence is going to be based off of the bank of bigrams and unigrams. You can see the [file here](Homework4).
 
 ## Parsing Sentences
 
-This paper takes a look at different parsing techniques on a sentence created by me. The different parsing techniques that were used were PSG parsing tree, Dependency Parsing and Semantic Role Labeling. Along with this I give my thoughts on pros and cons of the different techniques. You can see the [file here] (Parsing-Sentences.pdf)
+This paper takes a look at different parsing techniques on a sentence created by me. The different parsing techniques that were used were PSG parsing tree, Dependency Parsing and Semantic Role Labeling. Along with this I give my thoughts on pros and cons of the different techniques. You can see the [file here](Parsing-Sentences.pdf)
