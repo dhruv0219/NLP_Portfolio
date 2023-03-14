@@ -25,3 +25,7 @@ runs them as different N-Gram models as both bigrams and unigrams. From there th
 ## Parsing Sentences
 
 This paper takes a look at different parsing techniques on a sentence created by me. The different parsing techniques that were used were PSG parsing tree, Dependency Parsing and Semantic Role Labeling. Along with this I give my thoughts on pros and cons of the different techniques. You can see the [file here](Parsing-Sentences.pdf)
+
+## Homework 5
+
+This program uses a web crawler to scrape different websites information on Lionel Messi. The web crawler looks through a starter site then looks at different links and routing pages from there until it comes up with 15 relevant URL sites. Once the websites have been found, the information on the website is scraped and stored in different text files. From there, the websites sentences are tokenized and later the top 25 terms are found. From there we manually selected the top values and created a knowledge base using this data. The knowledge base is later used for a chatbot. You can see the [file here](Homework5)
