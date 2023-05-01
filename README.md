@@ -40,6 +40,8 @@ This paper takes a look into a long paper that was submitted to the Association 
 
 ## Chatbot
 
+This program creates a chatbot that can interact with a user about any of the Champions Leagues Finals. The program is able to tell users details about specific interests regarding the Champions League such as "how many goals does Lionel Messi have?", "Who won the 1990-1991 Champions League final?", and many other questions regarding the Champions League. The chatbot relies on a knowledge base that was taken from a dataset on kaggle that contains a lot of the information and data that was needed regarding the Champions League finals, player data, and team data. This data was then put into a SQL database that we were able to call upon. Along with this the program uses a MultiNomial Naive Bayes machine learning model to detect what subject the question is regarding whether it is a question about a specific final, player, or team. From there the chatbot uses similarity metrics and NER to successfully answer the question. You can see the [chatbot here](ChatBot).
+
 ## Text Classification 2
 
 This program takes a look into using different keras and tenserflow tools to classify text. It is fairly similar to Text Classification 1, but many of the models and tools that were used are different. The data that was used for this program was a dataset from kaggle regarding jokes. A piece of text is given the value of 1 if it is indeed a joke and a 0 if it is otherwise. In this program different types of models were used such as RNN, CNN, LSTM, and Embedding. You can see the [file here for text classification 2](TextClassification2).
