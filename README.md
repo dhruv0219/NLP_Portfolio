@@ -46,3 +46,7 @@ This program creates a chatbot that can interact with a user about any of the Ch
 ## Text Classification 2
 
 This program takes a look into using different keras and tenserflow tools to classify text. It is fairly similar to Text Classification 1, but many of the models and tools that were used are different. The data that was used for this program was a dataset from kaggle regarding jokes. A piece of text is given the value of 1 if it is indeed a joke and a 0 if it is otherwise. In this program different types of models were used such as RNN, CNN, LSTM, and Embedding. You can see the [file here for text classification 2](TextClassification2).
+
+## Skills Learned
+
+Throughout this entire process I was able to gain many skills with some being technical skills as well as soft skills. To see the list of skills click on this [link here](Skills.md).
