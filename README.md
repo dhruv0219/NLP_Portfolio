@@ -12,7 +12,7 @@ This program takes in data and processes the text to make it readable and presen
 
 ## Homework 2
 
-This program takes in a file and collects the 50 most common words out of the text and then allows the user to play a guess game where they try to guess the word. The program utilizes nltk to lemmatize each word and allow for each word to be unique. It also allows us to calculate what words are nouns and use those words as the main portion of the guessing game. You can see the [file here](Homework2).
+This program takes in a file and collects the 50 most common words out of the text and then allows the user to play a guess game where they try to guess the word. The program utilizes nltk to lemmatize each word and allow for each word to be unique. It also allows us to calculate what words are nouns and use those words as the main portion of the guessing game. You can see the [file here](https://github.com/dhruv0219/NLP_Portfolio/tree/main/Homework2).
 
 ## Homework 3
 
@@ -21,11 +21,11 @@ This file looks into the use of WordNet and some of the other tools associated w
 ## Homework 4
 
 This program looks into the use of N-Grams as well as using other tools and metrics to calculate accuracies. The program takes in different languages and 
-runs them as different N-Gram models as both bigrams and unigrams. From there the program runs a laplace formula to figure out what language the test sentence is going to be based off of the bank of bigrams and unigrams. You can see the [file here](Homework4).
+runs them as different N-Gram models as both bigrams and unigrams. From there the program runs a laplace formula to figure out what language the test sentence is going to be based off of the bank of bigrams and unigrams. You can see the [file here](https://github.com/dhruv0219/NLP_Portfolio/tree/main/Homework4).
 
 ## Homework 5
 
-This program uses a web crawler to scrape different websites information on Lionel Messi. The web crawler looks through a starter site then looks at different links and routing pages from there until it comes up with 15 relevant URL sites. Once the websites have been found, the information on the website is scraped and stored in different text files. From there, the websites sentences are tokenized and later the top 25 terms are found. From there we manually selected the top values and created a knowledge base using this data. The knowledge base is later used for a chatbot. You can see the [file here](Homework5).
+This program uses a web crawler to scrape different websites information on Lionel Messi. The web crawler looks through a starter site then looks at different links and routing pages from there until it comes up with 15 relevant URL sites. Once the websites have been found, the information on the website is scraped and stored in different text files. From there, the websites sentences are tokenized and later the top 25 terms are found. From there we manually selected the top values and created a knowledge base using this data. The knowledge base is later used for a chatbot. You can see the [file here](https://github.com/dhruv0219/NLP_Portfolio/tree/main/Homework5).
 
 ## Parsing Sentences
 
@@ -33,19 +33,19 @@ This paper takes a look at different parsing techniques on a sentence created by
 
 ## Text Classification 1
 
-This program takes a look into using different Sklearn libraries to classify different forms of text. The data that was used for this program was a dataset about rotten tomatoes reviews from Kaggle. Each review was given a rating of a 1 or a 0 with 1 indicating that it was a positive review and 0 indicating that it was a negative review. Different classification tools were used for instance such as neural networks, logistic regression and different types of Naive Bayes. You can see the [file here for text classification 1](TextClassification1).
+This program takes a look into using different Sklearn libraries to classify different forms of text. The data that was used for this program was a dataset about rotten tomatoes reviews from Kaggle. Each review was given a rating of a 1 or a 0 with 1 indicating that it was a positive review and 0 indicating that it was a negative review. Different classification tools were used for instance such as neural networks, logistic regression and different types of Naive Bayes. You can see the [file here for text classification 1](https://github.com/dhruv0219/NLP_Portfolio/tree/main/TextClassification1).
 
 ## ACL Paper Summary
 
-This paper takes a look into a long paper that was submitted to the Association for Computing Linguistics(ACL) conference. The long paper that was chosen was one called SalesBot: Transitioning from Chit-Chat to Task-Oriented Dialogues. The long paper focuses on a chatbot that primarily works on starting with open domain free dialougue and then transition to a task oriented dialogue depending on how the original conversation goes. Within the paper summary, I talk about many details regarding the chatbot as well as my thoughts on how it may impact the future of computing as well as its own field. You can see the [file here](ACL_Paper).
+This paper takes a look into a long paper that was submitted to the Association for Computing Linguistics(ACL) conference. The long paper that was chosen was one called SalesBot: Transitioning from Chit-Chat to Task-Oriented Dialogues. The long paper focuses on a chatbot that primarily works on starting with open domain free dialougue and then transition to a task oriented dialogue depending on how the original conversation goes. Within the paper summary, I talk about many details regarding the chatbot as well as my thoughts on how it may impact the future of computing as well as its own field. You can see the [file here](https://github.com/dhruv0219/NLP_Portfolio/tree/main/ACL_Paper).
 
 ## Chatbot
 
-This program creates a chatbot that can interact with a user about any of the Champions Leagues Finals. The program is able to tell users details about specific interests regarding the Champions League such as "how many goals does Lionel Messi have?", "Who won the 1990-1991 Champions League final?", and many other questions regarding the Champions League. The chatbot relies on a knowledge base that was taken from a dataset on kaggle that contains a lot of the information and data that was needed regarding the Champions League finals, player data, and team data. This data was then put into a SQL database that we were able to call upon. Along with this the program uses a MultiNomial Naive Bayes machine learning model to detect what subject the question is regarding whether it is a question about a specific final, player, or team. From there the chatbot uses similarity metrics and NER to successfully answer the question. You can see the [chatbot here](ChatBot).
+This program creates a chatbot that can interact with a user about any of the Champions Leagues Finals. The program is able to tell users details about specific interests regarding the Champions League such as "how many goals does Lionel Messi have?", "Who won the 1990-1991 Champions League final?", and many other questions regarding the Champions League. The chatbot relies on a knowledge base that was taken from a dataset on kaggle that contains a lot of the information and data that was needed regarding the Champions League finals, player data, and team data. This data was then put into a SQL database that we were able to call upon. Along with this the program uses a MultiNomial Naive Bayes machine learning model to detect what subject the question is regarding whether it is a question about a specific final, player, or team. From there the chatbot uses similarity metrics and NER to successfully answer the question. You can see the [chatbot here](https://github.com/dhruv0219/NLP_Portfolio/tree/main/ChatBot).
 
 ## Text Classification 2
 
-This program takes a look into using different keras and tenserflow tools to classify text. It is fairly similar to Text Classification 1, but many of the models and tools that were used are different. The data that was used for this program was a dataset from kaggle regarding jokes. A piece of text is given the value of 1 if it is indeed a joke and a 0 if it is otherwise. In this program different types of models were used such as RNN, CNN, LSTM, and Embedding. You can see the [file here for text classification 2](TextClassification2).
+This program takes a look into using different keras and tenserflow tools to classify text. It is fairly similar to Text Classification 1, but many of the models and tools that were used are different. The data that was used for this program was a dataset from kaggle regarding jokes. A piece of text is given the value of 1 if it is indeed a joke and a 0 if it is otherwise. In this program different types of models were used such as RNN, CNN, LSTM, and Embedding. You can see the [file here for text classification 2](https://github.com/dhruv0219/NLP_Portfolio/tree/main/TextClassification2).
 
 ## Skills Learned
 
