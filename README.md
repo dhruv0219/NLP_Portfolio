@@ -1,5 +1,6 @@
 # NLP_Portfolio
-Portfolio for NLP projects
+
+One of the fastest growing fields in Computer Science and Artificial Intelligence is NLP. Almost every top company in the world uses NLP to some extent whether it's something as simple as classifying spam in company emails all the way to building fully function chatbots that can converse with humans in a fully organic way. The main goal of this portfolio was to not only allow for me to learn and better understand the field of NLP, but to hone my skills as an engineer. This portfolio showcases skills such as utilizing regex, lemmatizing words with NLTK, using Wordnet and similarity metrics, how to work with N-grams, web crawling and tokeninizing the data, classifying text using different models, and even building out a full functioning chatbot. Due to the nature of how fast this field is growing it is almost imperative that I continue to learn and develop my NLP skills that can help me land a profession in which I can work with cutting edge and state of the art NLP technology. The way to accomplish this goal is to not only further build and work with new NLP tools, but to also stay up to date with resources such as the ACL to see if there are any new developments in the field. The hope is that this portfolio continues to grow either in the ways of new projects being added or existing projects being refined and further developed as I continue along with my career. I hope that you enjoy the projects in this portfolio as much as I enjoyed creating them.
 
 ## Portfolio 0
 
