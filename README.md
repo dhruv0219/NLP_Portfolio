@@ -8,7 +8,7 @@ This is an introduction into NLP and how my interests align with the field. You 
 
 ## Homework 1
 
-This program takes in data and processes the text to make it readable and presentable using regex. After the data is processed it is then presented to the user. You can see the [file here](https://github.com/dhruv0219/NLP_Portfolio/tree/main/Homework1).
+This program takes in data and processes the text to make it readable and presentable using regex. After the data is processed it is then presented to the user. You can see the [file here](Homework1/Homework1_Dxt180017.py).
 
 ## Homework 2
 
